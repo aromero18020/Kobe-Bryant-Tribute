@@ -1,6 +1,6 @@
 #Kobe-Bryant-Tribute
 > Title: Kobe-Bryant-Tribute
-> Live: 
+> Live: https://aromero18020.github.io/Kobe-Bryant-Tribute/
 
 ## Table of Contents
 * [General Info](#general-information)
